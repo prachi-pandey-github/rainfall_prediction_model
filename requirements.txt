@@ -1,0 +1,9 @@
+Python 3.x
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Scikit-learn
